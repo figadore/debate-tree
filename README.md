@@ -1,4 +1,4 @@
-# Debate Tree (working nam)
+# Debate Tree (working name)
 
 ## The problem being solved
 It is difficult to find answers to certain types of questions. Take the existence of God as an example. Most people that write about the subject already have an opinion, and present arguments in favor of their view, and don't provide a way to respond with counterpoints. Even in formats designed to solve this problem, like debate, many points are left unaddressed in the limited time provided.
@@ -19,3 +19,7 @@ Erroneous arguments and responses are able to be labeled as such. For example, i
 
 #### Incentives
 Community members who consistently make the most useful or helpful contributions get more privileges (stack overflow style).
+
+## Links
+* You can't win an argument online: https://www.youtube.com/watch?v=BB7CkNNpex0
+* Text vs speech in communication: https://www.washingtonpost.com/news/speaking-of-science/wp/2017/11/27/people-may-seem-more-reasonable-when-you-hear-them-rather-than-read-their-words/?utm_term=.0529e33f8420
